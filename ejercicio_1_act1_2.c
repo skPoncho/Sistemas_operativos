@@ -3,7 +3,7 @@
 #include<sys/types.h>
 #include<sys/wait.h>
 #include<unistd.h>
-//Carlos Alfonso Barrón Rivera  2CV8
+//Carlos Alfonso Barrón Rivera  2CV8 2019630166
 int main(){
 	pid_t pid,pid2;
 	char hijo[] = {"Yo soy el proceso Hijo y mi Id es:"};
